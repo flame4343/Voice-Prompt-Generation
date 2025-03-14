@@ -8,8 +8,8 @@ This is the official implementation of Voice Prompt Generation through LLMs for 
 * transformers=4.30.2
 
 ## Datasets
-* **data**: It is a real-world Chinese navigation voice prompt dataset sourced from the Navinfo Maps in China.
-* For the full datasets of Voice Prompt Generation, please feel free to contact fengzebang8336@navinfo.com
+* **data**: It is a real-world Chinese navigation voice prompt dataset sourced from a well-known Chinese map service provider.
+* For the full datasets of Voice Prompt Generation, please feel free to contact 1801210364@pku.edu.com
 
 ## Pre-trained Models
 * T5-PEGASUS is a Chinese generative pre-trained model based on the mT5 architecture and utilizes PEGASUS-style pre-training, aiming to enhance performance in Chinese text generation tasks.
